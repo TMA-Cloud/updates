@@ -1,5 +1,5 @@
 {
-  "frontend": "2.0.9",
-  "backend": "2.0.9",
+  "frontend": "2.0.10",
+  "backend": "2.0.10",
   "electron": "1.0.0"
 }
